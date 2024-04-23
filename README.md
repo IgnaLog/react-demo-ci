@@ -46,7 +46,7 @@ La siguiente imagen representa la arquitectura del sistema que implementaremos e
 
 ¡Explora la imagen para comprender mejor la interacción entre estos componentes y sigue los pasos del tutorial para implementar este sistema de CI/CD en tu entorno Azure!
 
-<img src="https://i.ibb.co/cQL34bK/react-demo-ci.png" width="300" height="200">
+![Arquitecura React Demo CI](./public/react-demo-ci.svg)
 
 Este tutorial te llevará paso a paso desde la configuración inicial hasta la implementación de un flujo de CI/CD robusto utilizando las tecnologías mencionadas. ¡Comencemos!
 
